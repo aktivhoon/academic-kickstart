@@ -1,4 +1,6 @@
 # Skills
 # Programming
-- skill: Programming
-  description: Python, Matlab, R, C++
+- skill: Python
+- skill: Matlab
+- skill: R
+- skill: C++
